@@ -1,5 +1,3 @@
 Header
-![background](https://github.com/user-attachments/assets/7bee1dc7-163a-45c3-8aeb-47f9e62cb674)
-
-
+![background2](https://github.com/user-attachments/assets/a8bd08fb-16b1-4128-8e3a-f6ddbbfdcfe9)
 About me
