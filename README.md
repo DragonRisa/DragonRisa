@@ -8,5 +8,5 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=00BFFF)
 ![C#](https://img.shields.io/badge/-C_Sharp-090909?style=for-the-badge&logo=sharp&logoColor=9932CC)
 
-## Тестовая документация
-### - [Портфолио](https://github.com/DragonRisa/QaPortfolio/blob/main/README.md)
+## Портфолио
+### - [Тестовая документация](https://github.com/DragonRisa/QaPortfolio/blob/main/README.md)
