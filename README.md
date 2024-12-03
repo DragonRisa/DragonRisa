@@ -9,3 +9,4 @@
 ![C#](https://img.shields.io/badge/-C_Sharp-090909?style=for-the-badge&logo=sharp&logoColor=9932CC)
 
 ## Тестовая документация
+### - [Портфолио](https://github.com/DragonRisa/QaPortfolio/blob/main/README.md)
