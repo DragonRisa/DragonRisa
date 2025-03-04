@@ -6,7 +6,9 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=FF4500)
 ![SQL](https://img.shields.io/badge/-SQL_Server-090909?style=for-the-badge&logo=sqlserver&logoColor=E0FFFF)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=00BFFF)
-![C#](https://img.shields.io/badge/-C_Sharp-090909?style=for-the-badge&logo=sharp&logoColor=9932CC)
+![C#](https://img.shields.io/badge/-C_Sharp-090909?style=for-the-badge&logo=sharp&logoColor=9932CC) 
+![Asana](https://img.shields.io/badge/-Asana-090909?style=for-the-badge&logo=asana&logoColor=#F06A6A)
+![Jenkins](https://img.shields.io/badge/-Jenkins-090909?style=for-the-badge&logo=jenkins&logoColor=E0FFFF)
 
 ## Портфолио
 ### - [Тестовая документация](https://github.com/DragonRisa/QaPortfolio/blob/main/README.md)
