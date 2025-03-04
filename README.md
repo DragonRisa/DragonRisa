@@ -7,8 +7,12 @@
 ![SQL](https://img.shields.io/badge/-SQL_Server-090909?style=for-the-badge&logo=sqlserver&logoColor=E0FFFF)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=00BFFF)
 ![C#](https://img.shields.io/badge/-C_Sharp-090909?style=for-the-badge&logo=sharp&logoColor=9932CC) 
-![Asana](https://img.shields.io/badge/-Asana-090909?style=for-the-badge&logo=asana&logoColor=#F06A6A)
+![Asana](https://img.shields.io/badge/-Asana-090909?style=for-the-badge&logo=asana&logoColor=F06A6A)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-090909?style=for-the-badge&logo=jenkins&logoColor=E0FFFF)
+![Qase](https://img.shields.io/badge/-Qase-090909?style=for-the-badge&logo=qase&logoColor=4F46DC)
+![Confluence](https://img.shields.io/badge/-Confluence-090909?style=for-the-badge&logo=confluence&logoColor=00BFFF)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
 
 ## Портфолио
 ### - [Тестовая документация](https://github.com/DragonRisa/QaPortfolio/blob/main/README.md)
